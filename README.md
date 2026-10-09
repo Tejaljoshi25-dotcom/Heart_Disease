@@ -1,7 +1,7 @@
 # Heart_Disease
 
 
-# ❤️ Heart Disease Prediction & Automated Clinical Decision Support System
+#  Heart Disease Prediction & Automated Clinical Decision Support System
 
 An end-to-end Machine Learning project designed to predict cardiovascular disease risk and generate automated clinical triage reports for patients. Built using Python, Scikit-Learn, and Pandas.
 
@@ -12,7 +12,7 @@ This system processes heart disease medical records, trains a robust **Logistic 
 
 ---
 
-## ✨ Key Features
+##  Key Features
 - **Robust Data Preprocessing:** Automatically cleans dataset anomalies, handles missing/corrupted values (`?`), manages data types, and applies median imputation.
 - **Feature Scaling:** Uses `StandardScaler` to normalize numerical features for stable and accurate model convergence.
 - **Predictive Modeling:** Implements `LogisticRegression` from Scikit-Learn with stratified train-test splitting.
@@ -21,7 +21,7 @@ This system processes heart disease medical records, trains a robust **Logistic 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```text
 ├── cleaned_heart_disease_data.csv   # Cleaned and processed dataset ready for academic submission
 ├── heart_disease_project.ipynb      # Main Jupyter Notebook containing EDA, training, and evaluation
