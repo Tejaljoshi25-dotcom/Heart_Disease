@@ -7,7 +7,7 @@ An end-to-end Machine Learning project designed to predict cardiovascular diseas
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This system processes heart disease medical records, trains a robust **Logistic Regression** classifier with proper feature scaling, and features a custom **Clinical Recommendation Engine** that classifies patients into distinct risk tiers (High, Moderate, and Low) and suggests actionable medical steps.
 
 ---
